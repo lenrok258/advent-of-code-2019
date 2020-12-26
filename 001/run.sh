@@ -1,4 +1,4 @@
 #!/bin/bash
 
 clear
-python3 script.py
+python3.9 script2.py
